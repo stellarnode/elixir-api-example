@@ -1,6 +1,6 @@
 # ElixirApi
 
-This is a basic example of an API build with Elixir/Phoenix.
+This is a basic example of an API built with Elixir/Phoenix.
 
 The API is accessible at `/api/posts`.
 
@@ -10,7 +10,7 @@ The data should be passed in the header. Here is an example:
 
 Also, please remember to include the following in the header for the API to work:
 
-`Conten-Type: application/json`
+`Content-Type: application/json`
 
 ### Prerequisites
 
